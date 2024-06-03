@@ -1,4 +1,5 @@
 return{
+    "sindrets/diffview.nvim",
     "f-person/git-blame.nvim",
 	"nvim-lua/plenary.nvim",
 	"nvim-telescope/telescope.nvim",
