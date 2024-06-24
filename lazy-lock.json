@@ -1,5 +1,7 @@
 {
+  "LuaSnip": { "branch": "master", "commit": "03c8e67eb7293c404845b3982db895d59c0d1538" },
   "Scat-nvim": { "branch": "mainline", "commit": "c0a2cb0e94c0ad44e20be7496cb643c43d448e01" },
+  "coc-jedi": { "branch": "main", "commit": "b79cb60389a7a78d79291ea73d8e0e2591f40f27" },
   "coc.nvim": { "branch": "release", "commit": "f0ce9ae23d6ce9d0cbabe73bdb738e45accc6f08" },
   "diffview.nvim": { "branch": "main", "commit": "3afa6a053f680e9f1329c4a151db988a482306cd" },
   "fd": { "branch": "master", "commit": "be815c261ace9cd0026cff5c8a579cda094e10fd" },

@@ -1,5 +1,4 @@
 local set = vim.opt
-local keyset = vim.keymap.set
 set.nu = true
 
 set.tabstop = 4
